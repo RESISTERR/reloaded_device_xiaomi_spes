@@ -255,7 +255,8 @@ PRODUCT_PACKAGES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.1-service.spes
+    android.hardware.biometrics.fingerprint@2.1-service.spes \
+    android.hardware.biometrics.fingerprint@2.1-service.xiaomi
 
 # FM
 PRODUCT_PACKAGES += \
@@ -454,6 +455,7 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     fstab.qcom_ramdisk \
     fstab.zram \
+    init.fingerprint.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
     init.recovery.qcom.rc \
