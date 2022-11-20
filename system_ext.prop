@@ -1,6 +1,10 @@
 # DPM
 persist.vendor.dpm.feature=11
 
+# Reloaded Specific
+ro.reloaded.device_maintainer=Angga_alfian
+ro.reloaded.device_maintainer_url=https://t.me/RESISTERR
+
 # Telephony
 ro.telephony.sim_slots.count=2
 telephony.active_modems.max_count=2
