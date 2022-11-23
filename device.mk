@@ -445,6 +445,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.display.refresh.sh \
     init.mdm.sh \
+    init.mi.usb.sh \
     init.qcom.post_boot.sh \
     init.qcom.sh \
     init.qcom.usb.sh
